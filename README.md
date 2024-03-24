@@ -1,4 +1,4 @@
-# Practice_of_programming
+# Practice_of_Programming
 本项目是北京大学*程序设计实习*课程的“魔兽”大作业代码，由作者修课期间完成，水平有限仅供参考。
 
 # 责任须知
