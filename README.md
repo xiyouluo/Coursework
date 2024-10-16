@@ -1,8 +1,18 @@
-# Introduction_to_AI
-本项目是北京大学*人工智能引论*课程的lab代码，由作者修课期间（23sp）完成，水平有限仅供参考。
-# Practice_of_Programming
-本项目是北京大学*程序设计实习*课程的“魔兽”大作业代码，由作者修课期间（23sp）完成，水平有限仅供参考。
+# Coursework
 
-# 责任须知
-- 上传目的是供学弟学妹们学习参考，请对自己的学业负责，不要抄袭代码。
-- 你可以修改和使用这个项目，但请自行承担由此造成的一切后果。
+## Overview
+
+This repository contains labs, projects and notes from my coursework. It is intended solely for learning and reference purposes. The content here reflects my own understanding of the topics covered and may not be fully accurate or comprehensive.
+
+## Usage
+
+Feel free to explore the content in this repository to aid your learning. However, please keep in mind:
+
+- **Personal Use Only**: This material is shared for educational purposes only. Use it to deepen your understanding, but avoid copying it directly for your own coursework.
+- **Academic Integrity**: Make sure to follow your institution's policies on academic integrity and plagiarism.
+
+## Disclaimer
+
+All files and content in this repository are provided "as is" and are intended for reference and educational purposes only. By using this repository, you agree to take full responsibility for how you use the information provided here.
+
+I am not responsible for any issues, errors, or consequences that may arise from using these materials. Use at your own risk.
